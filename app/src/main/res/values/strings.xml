@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wawime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="texview_days_list_header">Have a look on your activities</string>
+</resources>
